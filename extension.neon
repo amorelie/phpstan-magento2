@@ -1,0 +1,5 @@
+services:
+    -
+        class: Sonoma\PHPStan\DataObject\DataObjectExtension
+        tags:
+            - phpstan.broker.methodsClassReflectionExtension

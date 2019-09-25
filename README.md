@@ -1,0 +1,1 @@
+# PHPStan integration for Magento 2
